@@ -29,7 +29,9 @@ A measure named Profit Margin was formulated by aggregating sales to determine T
 # Analysis
 **Summary Statistics**
 <> The sum of sales from the Sales Data reached 34,492.04 thousand.
+
 <> The total quantity sold amounted to 209.08K thousand.
+
 <> The profit margin was calculated at 58.83% thousand.
 
 **Sales occurred each month**
